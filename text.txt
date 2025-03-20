@@ -1,0 +1,4 @@
+Text (Only Even Numbers) sp
+Small - 12 , 14 
+medium - 16 , 18 
+large - 20 , 24 
